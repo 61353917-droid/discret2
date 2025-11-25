@@ -1,1 +1,1 @@
-print("labo discreta prueba despues de clonar")
+print("labo discreta prueba despues de clonar PC")
